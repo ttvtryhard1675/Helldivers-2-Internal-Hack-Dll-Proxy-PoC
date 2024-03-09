@@ -10,7 +10,7 @@
   
   | Cheat | Description |
   |----------|----------|
-  | Infinite Health | Makes you invulnerable to most forms of damage |
+  | Infinite Healt | Makes you invulnerable to most forms of damage |
   | Infinite Grenades | Grenades are always at max capacity |
   | Infinite Grenades (legit) | Grenades decrease, but never drops to zero. Allows you to collect grenade boxes |
   | Infinite Ammunition | Ammunition is always at max capacity |
